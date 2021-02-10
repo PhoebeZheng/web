@@ -21,10 +21,6 @@ h1 {
     font-family: 'Comic Sans MS', cursive;
 }
 
-p1 {
-    color: f08080;
-}
-
 /* this will style all h2 elements with color white */
 h2 {
     color: pink;
@@ -33,4 +29,5 @@ h2 {
 /* this will make the page background lavender blush */
 body {
     background-color: fff0f5;/*not red background so won't hurt eyes */
+    color: f08080;
 }
