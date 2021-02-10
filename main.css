@@ -11,18 +11,22 @@ SELECTOR { 0 or more DECLARATIONS }
 where each declaration is of the form
 PROPERTY : VALUE;
  */
+html {
+  height: 100%;
+}
 
 /* this will style all h1 elements with color red */
 h1 {
-    color: red
+    color: Black
+      
 }
 
 /* this will style all h2 elements with color blue */
 h2 {
-    color: blue
+    color: white
 }
 
 /* this will make the page background black */
 body {
-    background-color: black; /* bc dark mode 4 teh youngs */
+    background-color: red; /* bc dark mode 4 teh youngs */
 }
