@@ -3,7 +3,7 @@ html {
   height: 100%;
 }
 body {
-  font-family: Arial;
+  font-family: Lucida;
   height: 100%;
   margin: 0px;
 }
@@ -18,7 +18,7 @@ body {
   z-index: 10;
 }
 .menu {
-  background-color: #de90b1;
+  background-color: #DC143C;
   height: 100%;
   width: 15%;
   position: fixed;
@@ -37,7 +37,7 @@ body {
   z-index: 0;
 }
 .footer {
-  background-color: #0f215d;
+  background-color: #8B0000;
   position: fixed;
   bottom: 0px;
   height: 60px;
