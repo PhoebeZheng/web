@@ -2,12 +2,12 @@
 html {
   height: 100%;
 }
-body {
+.h1 {
   font-family: Lucida;
   height: 100%;
   margin: 0px;
 }
-.header {
+.p3 {
   background-color: #99b5dd;
   position: fixed;
   top: 0px;
@@ -17,7 +17,7 @@ body {
   font-size: 50px;
   z-index: 10;
 }
-.menu {
+.h2 {
   background-color: #DC143C;
   height: 100%;
   width: 15%;
@@ -28,7 +28,7 @@ body {
   text-align: center;
   z-index: 5;
 }
-.content {
+.h3 {
   height: 200px;
   position: absolute;
   top: 60px;
@@ -36,7 +36,7 @@ body {
   padding: 10px;
   z-index: 0;
 }
-.footer {
+.h3 {
   background-color: #8B0000;
   position: fixed;
   bottom: 0px;
