@@ -15,18 +15,18 @@ html {
   height: 100%;
 }
 
-/* this will style all h1 elements with color red */
+/* this will style all h1 elements with color black and fancy font */
 h1 {
-    color: Black
-      
+    color: black;
+    font-family: 'Comic Sans MS', cursive;
 }
 
-/* this will style all h2 elements with color blue */
+/* this will style all h2 elements with color white */
 h2 {
     color: white
 }
 
-/* this will make the page background black */
+/* this will make the page background red */
 body {
-    background-color: red; /* bc dark mode 4 teh youngs */
+    background-color: red;
 }
