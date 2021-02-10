@@ -1,46 +1,29 @@
-  
-html {
-  height: 100%;
+/*
+  (this is a CSS comment)
+  Clyde "Thluffy" Sinclair
+  IntroCS pd00 sec00
+  HW99 -- demo/sample
+  2021-02-02
+*/
+
+/*
+structure of a CSS ruleset:
+SELECTOR { 0 or more DECLARATIONS }
+where each declaration is of the form
+PROPERTY : VALUE;
+ */
+
+/* this will style all h1 elements with color red */
+h1 {
+    color: red
 }
-.h1 {
-  font-family: "Lucida Handwriting", cursive;
-  height: 100%;
-  margin: 0px;
+
+/* this will style all h2 elements with color blue */
+h2 {
+    color: blue
 }
-p3 {
-  background-color: #99b5dd;
-  position: fixed;
-  top: 0px;
-  width: 100%;
-  height: 60px;
-  padding: 0px 10px;
-  font-size: 50px;
-  z-index: 10;
-}
-.h2 {
-  background-color: #DC143C;
-  height: 100%;
-  width: 15%;
-  position: fixed;
-  left: 0px;
-  top: 60px;
-  padding: 10px 0px 0px;
-  text-align: center;
-  z-index: 5;
-}
-.h3 {
-  height: 200px;
-  position: absolute;
-  top: 60px;
-  left: 15%;
-  padding: 10px;
-  z-index: 0;
-}
-.h3 {
-  background-color: #8B0000;
-  position: fixed;
-  bottom: 0px;
-  height: 60px;
-  width: 100%;
-  z-index: 10;
+
+/* this will make the page background black */
+body {
+    background-color: black; /* bc dark mode 4 teh youngs */
 }
