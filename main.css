@@ -17,16 +17,16 @@ html {
 
 /* this will style all h1 elements with color black and fancy font */
 h1 {
-    color: black;
+    color: red;
     font-family: 'Comic Sans MS', cursive;
 }
 
 /* this will style all h2 elements with color white */
 h2 {
-    color: white
+    color: pink
 }
 
-/* this will make the page background red */
+/* this will make the page background white */
 body {
-    background-color: red;
+    background-color: white;/*not red background so won't hurt eyes */
 }
