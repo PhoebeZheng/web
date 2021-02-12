@@ -18,12 +18,13 @@ html {
 /* this will style all h1 elements with color red and fancy font */
 h1 {
     color: red;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: Garamond, serif;
 }
 
 /* this will style all h2 elements with color pink */
 h2 {
     color: pink;
+    font-family: 'Comic Sans MS', cursive;
 }
 
 /* this will make the page background lavender blush */
