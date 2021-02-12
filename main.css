@@ -21,7 +21,7 @@ h1 {
     font-family: Garamond, serif;
 }
 
-/* this will style all h2 elements with color pink */
+/* this will style all h2 elements with color pink and Comic Sans*/
 h2 {
     color: pink;
     font-family: 'Comic Sans MS', cursive;
