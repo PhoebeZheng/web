@@ -24,7 +24,7 @@ h1 {
 /* this will style all h2 elements with color pink and Comic Sans*/
 h2 {
     font-family: 'Comic Sans MS', cursive;
-    font-size: 75px;
+    font-size: 20px;
     font-style: normal;
     outline-style: double;
     outline-color: white;
@@ -37,6 +37,6 @@ body {
     background-color: fff0f5;/*not red background so won't hurt eyes */
     color: f08080;
     font-family: monaco, cursive;
-    font-size: 75px;
+    font-size: 16px;
     font-style: normal;
 }
