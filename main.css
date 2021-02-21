@@ -52,6 +52,6 @@ div {
 }
 p.mix {
   border-style: hidden hidden hidden solid;
-  border-width: 5px 20px;
+  border-width: 20px 5px;
   border-color: MediumAquaMarine;
 }
