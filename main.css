@@ -38,15 +38,16 @@ body {
     font-size: 16px;
     font-style: normal;
     outline-style: double;
-    outline-color: Maroon;
+    outline-color: Ivory;
     margin: 30px;
 }
 
 div {
-  border: 5px solid Maroon;
+  border: 5px solid Ivory;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 100px;
   margin-left: 100px;
   background-color: Ivory;
 }
+p.mix {border-style: hidden hidden hidden solid;}
