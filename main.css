@@ -1,5 +1,4 @@
 /*
-  (this is a CSS comment)
   IntroCS pd02 sec02
   HW05 -- Stuylin'
   2021-02-10
@@ -8,8 +7,9 @@
 /*
 structure of a CSS ruleset:
 SELECTOR { 0 or more DECLARATIONS }
-where each declaration is of the form
+each declaration is in the form
 PROPERTY : VALUE;
+for ex: html is selector, height is property, 100 is value
  */
 html {
   height: 100%;
@@ -23,8 +23,13 @@ h1 {
 
 /* this will style all h2 elements with color pink and Comic Sans*/
 h2 {
-    color: pink;
     font-family: 'Comic Sans MS', cursive;
+    font-size: 75px;
+    font-style: normal;
+    outline-style: double;
+    outline-color: white;
+    color: pink;
+    margin: 10px;
 }
 
 /* this will make the page background lavender blush */
