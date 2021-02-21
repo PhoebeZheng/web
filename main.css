@@ -38,12 +38,12 @@ body {
     font-size: 16px;
     font-style: normal;
     outline-style: double;
-    outline-color: Ivory;
+    outline-color: Maroon;
     margin: 30px;
 }
 
 div {
-  border: 5px solid white;
+  border: 5px solid Maroon;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 100px;
