@@ -15,10 +15,11 @@ html {
   height: 100%;
 }
 
-/* this will style all h1 elements with color red and fancy font */
+/* this will style all h1 elements with color black and fancy font */
 h1 {
-    color: red;
+    color: black;
     font-family: Garamond, serif;
+    font-size: 50px;
 }
 
 /* this will style all h2 elements with color pink and Comic Sans*/
