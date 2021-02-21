@@ -27,10 +27,7 @@ h2 {
     font-family: 'Comic Sans MS', cursive;
     font-size: 20px;
     font-style: normal;
-    outline-style: double;
-    outline-color: white;
-    color: pink;
-    margin: 10px;
+    
 }
 
 /* this will make the page background lavender blush */
@@ -40,4 +37,8 @@ body {
     font-family: monaco, cursive;
     font-size: 16px;
     font-style: normal;
+    outline-style: double;
+    outline-color: white;
+    color: pink;
+    margin: 15px;
 }
