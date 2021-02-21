@@ -36,4 +36,7 @@ h2 {
 body {
     background-color: fff0f5;/*not red background so won't hurt eyes */
     color: f08080;
+    font-family: monaco, cursive;
+    font-size: 75px;
+    font-style: normal;
 }
